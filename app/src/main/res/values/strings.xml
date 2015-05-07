@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">XutilsXListTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- XListView -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="qfish_introduction">Love coding and hand-drawing, while he is also skilled in HTML and CSS and JS.
+        What he always saying is "Fight, a way of surviving ~".</string>
+    <string name="activity_title_未连接到互联网">未连接到互联网</string>
+    <string name="server_return_json_format_error">服务器返回数据错误，请稍后重试</string>
+
+    <!-- 断网 -->
+    <string name="activity_chat_未连接到互联网">未连接到互联网</string>
+    <string name="activity_chat_您的设备未启用移动">您的设备未启用移动网络或无线局域网</string>
+    <string name="activity_chat_cankao">如需要连接到互联网，请参考一下几点:</string>
+    <string name="activity_chat_jiancha">◆检查手机中的无线局域网设置，查看是否有可接入的无线局域网信号。</string>
+    <string name="activity_chat_shouji">◆检查手机是否已接入移动网络，并且手机没有被停机。</string>
+    <string name="activity_chat_ruguo">如果您已接入无线局域网：</string>
+    <string name="activity_chat_rug">◆请检查您所连接的无线局域热点是否已接入互联网，或热点是否已允许您的设备访问互联网。</string>
+    <string name="activity_chat_bukeyong">网络连接不可用</string>
+    <!-- 网络请求 -->
+    <string name="network_not_stable">网络环境不稳定，请稍后再试</string>
+</resources>
